@@ -71,6 +71,15 @@ The project demonstrates how AR can be used to make agricultural concepts more i
 
 ---
 
+
+# The testing images result :
+<img width="880" height="416" alt="image" src="https://github.com/user-attachments/assets/1626360c-e570-4c05-a807-6780abfd7974" />
+<img width="880" height="416" alt="image" src="https://github.com/user-attachments/assets/c96e457d-3904-4e6e-9bbd-b0ebea6205e3" />
+
+
+
+---
+
 ## 🔄 How the AR Experience Works
 
 ```text
@@ -89,3 +98,7 @@ AR Tracking
 Virtual Environment Anchored to Marker
         ↓
 Interactive AR Experience
+
+-------
+
+
