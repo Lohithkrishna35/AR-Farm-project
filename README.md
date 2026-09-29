@@ -1,4 +1,4 @@
-# 🌾 AR Farming Educational Demo
+# 🌾 AR Farming Educational 
 
 An interactive Augmented Reality (AR) farming experience developed with **Unity**, designed to transform a physical **"FARM" image marker** into an immersive 3D agricultural environment.
 
