@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lohit\\Documents\\GG\\GG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|c:\\users\\lohit\\documents\\gg\\gg\\assets\\scripts\\placementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\placementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\scripts\\nakedsheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nakedsheep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\scripts\\selectionimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selectionimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\scripts\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65407DF0-9E93-5695-CCD1-A60DF7FFBB95}|Assembly-CSharp-Editor.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65407DF0-9E93-5695-CCD1-A60DF7FFBB95}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\readme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\scripts\\cameraeditorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraeditorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|C:\\Users\\Lohit\\Documents\\GG\\GG\\assets\\scripts\\mousecursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30770B09-A81F-953C-661D-DBF1EFDA6982}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousecursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlacementManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\PlacementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlacementManager.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\PlacementManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlacementManager.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAqwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:17:45.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseCursor.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\MouseCursor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseCursor.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\MouseCursor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseCursor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:50:06.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:39:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\Dog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dog.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\Dog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dog.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T03:37:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAqwO0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:52:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NakedSheep.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\NakedSheep.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NakedSheep.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\NakedSheep.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NakedSheep.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:20:42.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraEditorControl.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\CameraEditorControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraEditorControl.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\CameraEditorControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraEditorControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:50:51.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Readme.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Readme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:52:06.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelectionImage.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\SelectionImage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectionImage.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\SelectionImage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectionImage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:26:27.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScreenCapture.cs",
+              "DocumentMoniker": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\ScreenCapture.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenCapture.cs",
+              "ToolTip": "C:\\Users\\Lohit\\Documents\\GG\\GG\\Assets\\Scripts\\ScreenCapture.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenCapture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:45:17.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

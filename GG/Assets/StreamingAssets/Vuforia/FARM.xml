@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="fm" size="0.100000 0.072750" />
+    <ImageTarget name="farmtxt" size="0.100000 0.089877" />
+  </Tracking>
+</QCARConfig>
